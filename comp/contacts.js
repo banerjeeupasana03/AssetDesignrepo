@@ -6,7 +6,7 @@ function Contacts(){
   return (
     <View>
       <Text>
-        This is the contacts page
+        This is the contacts page. Is it really the contacts page?
       </Text>
     </View>
   )
