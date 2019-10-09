@@ -1,16 +1,15 @@
-import react from ' react';
-import {View, Text} from 'react-native';
-import styles from './styles/styles.js';
+import React from 'react';
+import {View, Text, Image} from 'react-native';
 
 
-function App(){
-    return(
-        <View>
-            <Text>Contact Page</Text>
-        </View>
-    )
+function Contacts(){
+  return (
+    <View>
+      <Text>
+        This is the contacts page
+      </Text>
+    </View>
+  )
 }
 
-
-
-export default contact;
+export default Contacts;
