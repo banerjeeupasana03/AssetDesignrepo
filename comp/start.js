@@ -8,6 +8,10 @@ function App(){
       <Text>
         Welcome to group collaboration Hideki, Han and Upasana!
       </Text>
+      <Image
+          style={{width: 50, height: 50}}
+          source={{uri: '../images/puppy.jpeg'}}
+        />
     </View>
   )
 }
