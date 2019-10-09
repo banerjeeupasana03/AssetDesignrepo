@@ -8,6 +8,12 @@ function About(){
 
             <Text>About Us</Text>
 
+            <Text>Upsana</Text>
+
+            <Text>Hideki</Text>
+
+            <Text>Han Bin</Text>
+
         </View>
     )
 }
